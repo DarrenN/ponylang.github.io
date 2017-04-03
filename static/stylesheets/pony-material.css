@@ -21,7 +21,7 @@ dl {
 
 dt {
   font-weight: bold;
-  font-size: 1.1em;
+  font-size: 16px;
 }
 
 dd {
@@ -29,6 +29,10 @@ dd {
   margin-left: 14px;
   margin-right: 28px;
   margin-bottom: 14px;
+}
+
+.admonition.warning {
+  background: #800000;
 }
 
 /* author related info */
